@@ -1,0 +1,19 @@
+.pro{width: 400px;height: 520px;margin-bottom: 20px;}
+.listtour{display: flex;flex-wrap: wrap;justify-content: space-around;background-color: violet;}
+.textc {text-align: center;overflow:auto;height: 200px;}
+.readmore{display:flex;flex-wrap: nowrap;} 
+.price1{margin-top: 40px;}
+.price2{margin-top: 50px;}
+.delet{margin-top: 20px;}
+.back{width:100%; text-decoration: underline;display: flex;background-color: violet;flex-direction: column;}
+.back button{background-color: white;border-radius: 9%;color: burlywood;border: 1px solid burlywood;margin-left: 600px;}
+.coursitem img{height: 600px}
+.nav span{margin-left: 5px;}
+.nav span :hover {background-color:rgb(218, 213, 208)}
+.serarch{margin-left: 700px;}
+.navlink{margin-left: 5px;}
+.add{ width: 50%;margin: auto ;padding-top: 30px ; }
+.reload{margin-left: 24x;}
+.back h3{margin-left: 600px;}
+.load{background-color: violet;color: white;}
+.load h1{margin-top: 20px;margin-left: 500px;}
